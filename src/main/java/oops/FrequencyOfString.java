@@ -107,4 +107,8 @@ public class FrequencyOfString {
      String s=  Arrays.stream(str.split(" ")).sorted(Comparator.comparing(String::length).reversed()).skip(1).findFirst().get();
       System.out.println(s);
     }
+
+    public void dummy(){
+        System.out.println("testing");
+    }
 }
