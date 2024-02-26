@@ -110,5 +110,6 @@ public class FrequencyOfString {
 
     public void dummy(){
         System.out.println("testing");
+        System.out.println("testing1");
     }
 }
