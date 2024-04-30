@@ -53,6 +53,7 @@ public class Test {
             System.out.println();
         }
 
+
         for(int i=1;i<=5;i++){
             for(int k=1;k<=(5-i);k++){
                 System.out.print(" ");
